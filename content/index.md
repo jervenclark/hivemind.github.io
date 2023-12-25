@@ -1,0 +1,52 @@
+---
+title: Roadmap
+---
+
+- Part 1: Machine Learning Fundamentals
+	- Introduction to Machine Learning
+		- What is Machine Learning?
+		- Machine Learning, Deep Learning and Artificial Intelligence
+		- Brief History of ML
+		- Applications of Machine Learning
+		- Current Machine Learning Ecosystem
+	- Machine Learning Basics
+		- Overview of ML Architectures
+		- Supervised, Unsupervised and Reinforcement Learning
+		- Loss Functions
+		- Evaluation Metrics
+		- Optimization Algorithms
+	- Python for Deep Learning
+		- Setting Up a Development Environment
+		- Introduction to Python Libraries
+			- NumPy
+			- Pandas
+			- Matplotlib
+			- SciKit-learn
+			- PyTorch
+			- FastAI
+		- Data Manipulation and Data Preprocessing Techniques
+		- Visualization Techniques
+- Part 2 Mathematical Foundations
+	- Linear Algebra
+		- Scalars, Vectors, Matrices and Tensors
+		- Matrix Operations
+		- Special Kinds of Matrices and Vectors
+		- Linear Dependence and Span
+		- Norms
+		- Eigendecomposition
+		- Singular Value Decomposition
+		- The Moore-Penrose Pseudoinverse
+		- The Trace Operator
+		- The Determinant
+	- Calculus
+		- Derivatives
+		- Gradients
+		- Back Propagation
+	- Probability Theory and Information Theory
+		- Random Variables
+		- Probability Distributions
+			- Discrete Variables
+			- Probability Mass Functions
+			- Bernoulli Distribution
+			- 
+		
