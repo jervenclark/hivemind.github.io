@@ -48,5 +48,4 @@ title: Roadmap
 			- Discrete Variables
 			- Probability Mass Functions
 			- Bernoulli Distribution
-			- 
 		
