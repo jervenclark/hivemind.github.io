@@ -48,4 +48,97 @@ title: Roadmap
 			- Discrete Variables
 			- Probability Mass Functions
 			- Bernoulli Distribution
-		
+			- Multinoulli Distribution
+			- Gaussian Distribution
+			- Exponential Distribution
+			- Laplace Distribution
+			- Dirac Distribution
+			- Empirical Distribution
+			- Mixtures of Distributions
+		- Marginal Probability
+		- Conditional Probability
+		- The Chain Rule for Conditional Probabilities
+		- Independence and Conditional Independence
+		- Expectation, Variance and Covariance
+		- Useful Properties of Common Functions
+		- Bayes' Rule
+		- Technical Details of Continuous Variables
+		- Information Theory
+		- Structured Probabilistic Models
+	- Numerical Computation
+		- Overflow and Underflow
+		- Poor Conditioning
+- Machine Learning Models
+	- Introduction to Artificial Neural Networks
+		- Perceptron and Artificial Neurons
+		- Multilayer Perceptrons (MLPs)
+		- Activaton Functions
+			- Sigmoid Function
+			- ReLU
+			- Tanh
+		- Loss Functions
+		- Back Propagation
+		- Gradient Descent
+	- Feed-forward Neural Networks (FNNs)
+			- FNN Architectures
+			- FNN Activation Functions
+	- Convolutional Neural Networks (CNNs)
+		- Filters, Convolutions, and Pooling Layers
+		- CNN Architecture
+		- Transfer Learning
+	- Recurrent Neural Networks (RNNs)
+		- Sequence Data Representation
+		- Long Short-Term Memory (LSTM)
+	- Deep Learning Architectures
+		- Residual Networks
+		- Inception Networks
+	- Generative Models and Autoencoders
+		- Variational Autoencoders (VAEs)
+		- Deep Generative Models
+- Real-world Applications of Machine Learning
+	- Training Deep Learning Models
+		- Data Preparation
+		- Data Augmentation
+		- Hyperparameter Tuning
+		- Regularization Techniques
+		- Evaluating Model Performance
+	- Computer Vision
+		- Image Classification
+		- Object Detection
+		- Image Segmentation
+		- Image-to-image Translation
+		- Case Studies:
+			- Medical Image Analysis
+			- Autonomous Vehicles
+			- Facial Recognition
+	- Natural Language Processing (NLP)
+		- Transformers
+		- Text Classification
+		- Sentiment Analysis
+		- Machine Translation
+		- ChatBots
+		- Case Studies
+			- Spam Filtering
+			- Social Media Analysis
+			- Text Summarization
+	- Audio Processing
+		- Audio Generation
+		- Audio Classification
+		- Speech Recognition
+		- Case Studies
+			- Music Recommendation Systems
+			- Sound Effects Generation
+			- Voice Assistants
+- Ethical and Societal Considerations of Machine Learning
+	- Machine Learning Ethics
+		- Bias and Fairness in Machine Learning Models
+		- Privacy and Security Concerns
+		- Responsible Development and Deployment of Machine Learning Applications
+- Advance Topics and Future Directions
+	- Machine Learning Optimization Techniques
+		- Adam, RMSProp, and other Advance Optimizers
+		- Model Selection
+		- Gradient Clipping and Regularization
+	- Explainable AI (XAI) for Machine Learning Models
+		- Understanding the Inner Workings of ML Models
+		- Techniques for Interpreting and Visualizing Model Decisions
