@@ -4,17 +4,11 @@ title: Roadmap
 
 - Part 1: Machine Learning Fundamentals
 	- Introduction to Machine Learning
-		- What is Machine Learning?
+		- [What is Machine Learning?](Machine%20Learning%20(ML))
 		- Machine Learning, Deep Learning and Artificial Intelligence
 		- Brief History of ML
 		- Applications of Machine Learning
 		- Current Machine Learning Ecosystem
-	- Machine Learning Basics
-		- Overview of ML Architectures
-		- Supervised, Unsupervised and Reinforcement Learning
-		- Loss Functions
-		- Evaluation Metrics
-		- Optimization Algorithms
 	- Python for Deep Learning
 		- Setting Up a Development Environment
 		- Introduction to Python Libraries
@@ -42,6 +36,8 @@ title: Roadmap
 		- Derivatives
 		- Gradients
 		- Back Propagation
+	- Statistics
+		- 
 	- Probability Theory and Information Theory
 		- Random Variables
 		- Probability Distributions
@@ -69,6 +65,19 @@ title: Roadmap
 		- Overflow and Underflow
 		- Poor Conditioning
 - Machine Learning Models
+	- Machine Learning Basics
+		- Overview of ML Architectures
+		- Supervised, Unsupervised and Reinforcement Learning
+		- Loss Functions
+		- Evaluation Metrics
+		- Optimization Algorithms
+		- Linear Regression
+		- Logistic Regression
+		- Decision Tree
+		- Gradient Descent
+		- Random Forest
+		- Ridge and Lasso Regression
+		- Naive Bayes
 	- Introduction to Artificial Neural Networks
 		- Perceptron and Artificial Neurons
 		- Multilayer Perceptrons (MLPs)
@@ -78,7 +87,6 @@ title: Roadmap
 			- Tanh
 		- Loss Functions
 		- Back Propagation
-		- Gradient Descent
 	- Feed-forward Neural Networks (FNNs)
 			- FNN Architectures
 			- FNN Activation Functions
