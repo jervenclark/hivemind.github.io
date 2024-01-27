@@ -28,6 +28,5 @@ Decision trees can also be seen as [[Generative Models|generative models]] of in
 ## Notes
 ### Resources
 - [[CHAID and Earlier Supervised Tree Methods]]
-- 
 ### Further Readings
 - [[Induction of Decision Trees]]

@@ -155,8 +155,8 @@ title: Roadmap
 		- Loss Functions
 		- Back Propagation
 	- Feed-forward Neural Networks (FNNs)
-			- FNN Architectures
-			- FNN Activation Functions
+		- FNN Architectures
+		- FNN Activation Functions
 	- Convolutional Neural Networks (CNNs)
 		- Filters, Convolutions, and Pooling Layers
 		- CNN Architecture
@@ -193,7 +193,7 @@ title: Roadmap
 			- Medical Image Analysis
 			- Autonomous Vehicles
 			- Facial Recognition
-	- Natural Language Processing (NLP)
+	- [[Natural Language Processing (NLP)]]
 		- Transformers
 		- Text Processing
 		- Text Classification
@@ -202,7 +202,8 @@ title: Roadmap
 		- Text Generation and Language Translation
 		- Machine Translation, BLEU Score
 		- Summarization, ROUGE Score
-		- Language Modeling, Perplexity
+		- [[Language Modeling]]
+		- [[Perplexity]]
 		- ChatBots
 		- Topic Modeling
 		- Case Studies
@@ -216,7 +217,9 @@ title: Roadmap
 		- Case Studies
 			- Music Recommendation Systems
 			- Sound Effects Generation
-			- Voice Assistants
+			- Voice 
+	- Libraries and Technologies
+		- [[Facebook Fairseq]]
 - Ethical and Societal Considerations of Machine Learning
 	- Machine Learning Ethics
 		- Bias and Fairness in Machine Learning Models
