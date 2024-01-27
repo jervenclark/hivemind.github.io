@@ -1,16 +1,13 @@
 ---
 title: Roadmap
 ---
-
 - Part 1: Machine Learning Fundamentals
 	- Introduction to Machine Learning
 		- [What is Machine Learning?](Machine%20Learning%20(ML))
-		- Machine Learning, Deep Learning and Artificial Intelligence
-		- Brief History of ML
-		- Applications of Machine Learning
-		- Current Machine Learning Ecosystem
-	- Python for Deep Learning
-		- Setting Up a Development Environment
+		- [[Brief History of Machine Learning]]
+		- [[Current Machine Learning Ecosystem]]
+	- Python for Machine Learning
+		- [[Setting Up a Development Environment for ML]]
 		- Introduction to Python Libraries
 			- NumPy
 			- Pandas
@@ -19,7 +16,8 @@ title: Roadmap
 			- PyTorch
 			- FastAI
 		- Data Manipulation and Data Preprocessing Techniques
-		- Visualization Techniques
+	- Visualization Techniques
+		- 
 - Part 2 Mathematical Foundations
 	- Linear Algebra
 		- Scalars, Vectors, Matrices and Tensors
@@ -36,8 +34,30 @@ title: Roadmap
 		- Derivatives
 		- Gradients
 		- Back Propagation
+		- Optimization
 	- Statistics
-		- 
+		- Descriptive Statistics
+			- Continuous and Discrete Functions
+			- Probability Distribution
+			- Gaussian Normal Distribution
+			- Measure of Frequency and Central Tendency
+			- Measure of Dispersion
+			- Skewness and Kurtosis
+			- Normality Test
+			- Regression Test
+			- Regression Analysis
+			- Linear and Non-Linear Relationship with Regression
+			- ANOVA
+			- Homoscedasticity
+			- Goodness of Fit
+		- Inferential Statistics
+			- t-Test
+			- z-Test
+			- Hypothesis Testing
+			- Type I and Type II Errors
+			- One-way and Two-way Anova
+			- Chi-Square Test
+			- Implementation of Continuous and Categorical Data
 	- Probability Theory and Information Theory
 		- Random Variables
 		- Probability Distributions
@@ -64,22 +84,69 @@ title: Roadmap
 	- Numerical Computation
 		- Overflow and Underflow
 		- Poor Conditioning
-- Machine Learning Models
+	- Mathematical Foundations
+		- Kernel Machines
+		- Bias-Variance Trade-off
+		- Computational Learning Theory
+		- Empirical Risk Minimization
+		- Occam Learning
+		- Probably Approximately Correct (PAC) Learning
+		- Statistical Learning Theory
+		- Vapnik-Chervonenkis (VC) Theory
+- Foundations of Machine Learning
 	- Machine Learning Basics
 		- Overview of ML Architectures
-		- Supervised, Unsupervised and Reinforcement Learning
+		- Machine Learning Paradigms
+			- Supervised Learning
+			- Apprenticeship Learning
+			- Unsupervised Learning
+			- Reinforcement Learning
+			- Online Learning
+			- Batch Learning
+			- Meta-learning
+			- Semi-supervised Learning
+			- Rule-based Learning
+			- Quantum Machine Learning
 		- Loss Functions
 		- Evaluation Metrics
 		- Optimization Algorithms
 		- Linear Regression
 		- Logistic Regression
-		- Decision Tree
+		- [[Decision Trees]]
 		- Gradient Descent
-		- Random Forest
+		- Ensembles
+			- Bagging
+			- Boosting
+			- Random Forest
+		- k-Nearest Neighbor (k-NN)
 		- Ridge and Lasso Regression
 		- Naive Bayes
+		- Relevance Vector Machines (RVMs)
+		- Support Vector Machines (SVMs)
+	- Clustering
+		- BIRCH
+		- CURE
+		- Hierarchical
+		- k-Means Clustering
+		- Fuzzy
+		- Expectation-Maximization (EM)
+		- DBSCAN
+		- OPTICS
+		- Mean shift
+	- Dimensionality Reduction
+		- Factor Analysis
+		- Canonical Correlation Analysis (CCA)
+		- Independent Component Analysis (ICA)
+		- Linear Discriminant Analysis (LDA)
+		- Non-negative Matrix Factorization (NMF)
+		- Principal Component Analysis (PCA)
+		- Proper Generalized Decomposition (PGD)
+		- t-Distributed Stochastic Neighbor Embedding (t-SNE)
+		- Sparse Dictionary Learning (SDL)
+- Deep Learning
 	- Introduction to Artificial Neural Networks
-		- Perceptron and Artificial Neurons
+		- Perceptron
+		- Artificial Neural Networks
 		- Multilayer Perceptrons (MLPs)
 		- Activaton Functions
 			- Sigmoid Function
@@ -111,20 +178,33 @@ title: Roadmap
 		- Regularization Techniques
 		- Evaluating Model Performance
 	- Computer Vision
+		- Working with OpenCV
+		- Understanding Pretrained Models
+			- AlexNet
+			- ImageNet
+			- ResNet
 		- Image Classification
 		- Object Detection
 		- Image Segmentation
+		- Image Content Analysis
 		- Image-to-image Translation
+		- Edge Detection
 		- Case Studies:
 			- Medical Image Analysis
 			- Autonomous Vehicles
 			- Facial Recognition
 	- Natural Language Processing (NLP)
 		- Transformers
+		- Text Processing
 		- Text Classification
 		- Sentiment Analysis
-		- Machine Translation
+		- Named Entity Recognition (NER)
+		- Text Generation and Language Translation
+		- Machine Translation, BLEU Score
+		- Summarization, ROUGE Score
+		- Language Modeling, Perplexity
 		- ChatBots
+		- Topic Modeling
 		- Case Studies
 			- Spam Filtering
 			- Social Media Analysis
@@ -150,3 +230,12 @@ title: Roadmap
 	- Explainable AI (XAI) for Machine Learning Models
 		- Understanding the Inner Workings of ML Models
 		- Techniques for Interpreting and Visualizing Model Decisions
+	- MLOps
+		- Working with Deep Learning on AWS
+		- Amazon Rekognition - Image Applications
+		- Amazon Textract - Extract Text
+		- Amazon Transcribe - Speech to Text
+		- AWS Polly - Voice Analysis
+		- Amazon Lex - Natural Language Processing
+		- Amazon SageMaker - Building and Deploying Models
+		- Deploy ML models using Flask
