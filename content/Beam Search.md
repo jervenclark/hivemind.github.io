@@ -1,0 +1,4 @@
+Beam Search is a heuristic search algorithm that explores a graph by expanding the most promising node in a limited set. Beam search is an optimization of [[Best-First Search]] that reduces its memory requirements. Best-first search is a graph search which orders all partial solutions (states) according to a chosen heuristic. But in beam search, only a predetermined number of best partial solutions are kept as candidates. It is thus a [[Greedy Algorithm]]. Implemented with an unlimited set of candidates, beam search becomes a [[Backtracking Algorithm]].
+
+## Details
+Beam search uses [[Breadth-First Search]] to build its search tree. At each level of the tree, it generates all successors of the states at the current level, sorting them in increasing order of heuristic cost.

@@ -94,6 +94,7 @@ title: Roadmap
 		- Statistical Learning Theory
 		- Vapnik-Chervonenkis (VC) Theory
 - Foundations of Machine Learning
+	- 
 	- Machine Learning Basics
 		- Overview of ML Architectures
 		- Machine Learning Paradigms
@@ -110,6 +111,7 @@ title: Roadmap
 		- Loss Functions
 		- Evaluation Metrics
 		- Optimization Algorithms
+			- [[Beam Search]]
 		- Linear Regression
 		- Logistic Regression
 		- [[Decision Trees]]
@@ -185,7 +187,8 @@ title: Roadmap
 			- ResNet
 		- Image Classification
 		- Object Detection
-		- Image Segmentation
+		- [[Image Segmentation]]
+		- [[Morphological Image Processing|Image Morphology]]
 		- Image Content Analysis
 		- Image-to-image Translation
 		- Edge Detection
@@ -194,14 +197,16 @@ title: Roadmap
 			- Autonomous Vehicles
 			- Facial Recognition
 	- [[Natural Language Processing (NLP)]]
-		- Transformers
+		- [[Transformers]]
+			- [[Bidirectional Encoder Representation from Transformers (BERT)]]
 		- Text Processing
 		- Text Classification
 		- Sentiment Analysis
 		- Named Entity Recognition (NER)
-		- Text Generation and Language Translation
+		- Text Generation
+		- [[Machine Translation]]
 		- Machine Translation, BLEU Score
-		- Summarization, ROUGE Score
+		- [[Text Summarization]], ROUGE Score
 		- [[Language Modeling]]
 		- [[Perplexity]]
 		- ChatBots
@@ -211,15 +216,19 @@ title: Roadmap
 			- Social Media Analysis
 			- Text Summarization
 	- Audio Processing
+		- [[Mel Spectogram]]
 		- Audio Generation
 		- Audio Classification
 		- Speech Recognition
+			- Connectionist Temporal Classification
 		- Case Studies
 			- Music Recommendation Systems
 			- Sound Effects Generation
-			- Voice 
+			- Voice Cloning
+				- [[FreeVC]]
 	- Libraries and Technologies
-		- [[Facebook Fairseq]]
+		- [[Facebook Fairseq]] 
+		- [[SpeechBrain]]
 - Ethical and Societal Considerations of Machine Learning
 	- Machine Learning Ethics
 		- Bias and Fairness in Machine Learning Models
